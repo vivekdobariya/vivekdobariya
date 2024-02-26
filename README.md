@@ -18,7 +18,7 @@
 
 🌱 I’m currently learning **Next js by doing Project**
 
-👨‍💻 All of my projects are available at [vivekdobariya.com](vivekdobariya.com)
+👨‍💻 All of my projects are available at **[vivekdobariya.com](https://vivekdobariya.com/)**
 
 📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/vivekdobariya)**
 
